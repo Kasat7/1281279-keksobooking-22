@@ -3,7 +3,7 @@ import {
   getFractionNumber,
   getRandomElementFromArray,
   randomCutArr
-} from './util.js';
+} from './utils.js';
 
 const TOTAL_ADS = 10;
 
